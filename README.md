@@ -2,7 +2,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ==================
 Data Engineer
 ==================
-Data Engineer with over 2.5 years of experience in the software industry. Curious to learn new tools & technologies and take up new challenges. Skilled in Programming, Data Analytics, Tableau and Amazon Web Services (AWS). Graduated with a Bachelor of Technology degree majoring in Computer Science and Engineering from Kakatiya Institute of Technology & Science (KITS), Warangal.  * 🌍  I'm based in India * 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/sakethanne) * ✉️  You can contact me at [asvn.saketh@gmail.com](mailto:asvn.saketh@gmail.com) * 🧠  I'm learning React JS * 🤝  I'm open to collaborating on Automating the boring and tedious tasks
+Data Engineer with over 2.5 years of experience in the software industry. Curious to learn new tools & technologies and take up new challenges. Skilled in Programming, Data Analytics, Tableau and Amazon Web Services (AWS). Graduated with a Bachelor of Technology degree majoring in Computer Science and Engineering from Kakatiya Institute of Technology & Science (KITS), Warangal.
+* 🌍  I'm based in India 
+* 🖥️  See my portfolio at [LinkedIn](https://www.linkedin.com/in/sakethanne) 
+* ✉️  You can contact me at [asvn.saketh@gmail.com](mailto:asvn.saketh@gmail.com) 
+* 🧠  I'm learning React JS 
+* 🤝  I'm open to collaborating on Automating the boring and tedious tasks
 
 <a href="https://www.twitter.com/saketh_anne" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/saketh_anne?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Skills  
