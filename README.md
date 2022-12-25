@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Engineer
 ==================
 Data Engineer with 3 years of experience in the software industry. Curious to learn new tools & technologies and take up new challenges. Skilled in Programming, Data Analytics, Tableau and Amazon Web Services (AWS). Graduated with a Bachelor of Technology degree majoring in Computer Science and Engineering from Kakatiya Institute of Technology & Science (KITS), Warangal.
-* 🌍  I'm based in India 
+* 🌍  I'm based in United States 
 * 🖥️  See my portfolio at [LinkedIn](https://www.linkedin.com/in/sakethanne) 
 * ✉️  You can contact me at [asvn.saketh@gmail.com](mailto:asvn.saketh@gmail.com) 
 * 🧠  I'm learning React JS 
