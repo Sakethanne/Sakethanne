@@ -23,3 +23,8 @@ I graduated with a Bachelor of Technology degree majoring in Computer Science an
 
 <a href="http://www.github.com/Sakethanne"><img src="https://github-readme-stats.vercel.app/api?username=Sakethanne&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=84cc16&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Sakethanne's GitHub stats" /></a>
 <a href="http://www.github.com/Sakethanne"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sakethanne&stroke=84cc16&background=1c1917&ring=f97316&fire=f97316&currStreakNum=84cc16&currStreakLabel=f97316&sideNums=84cc16&sideLabels=84cc16&dates=84cc16&hide_border=true" /></a>
+
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="sakethanne" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/sakethanne?trk=profile-badge">Saketh Anne</a></div>
+              
