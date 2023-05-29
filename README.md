@@ -7,6 +7,7 @@ I am a Computer Science Graduate student at the University of Southern Californi
 I graduated with a Bachelor of Technology degree majoring in Computer Science and Engineering from Kakatiya Institute of Technology & Science (KITS), Warangal, India, and am always curious to learn new tools & technologies and take up new challenges.
 * 🌍  I'm based in United States 
 * 🖥️  See my portfolio at [LinkedIn](https://www.linkedin.com/in/sakethanne) 
+* 🖥️  See my Tableau Public portfolio at [Tableau Public](https://public.tableau.com/app/profile/saketh.anne/viz/VisualResume_16852692875970/VisualResume?publish=yes)
 * ✉️  You can contact me at [asvn.saketh@gmail.com](mailto:asvn.saketh@gmail.com) 
 * 🧠  I'm learning React JS 
 * 🤝  I'm open to collaborating on Automating the boring and tedious tasks
