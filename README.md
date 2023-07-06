@@ -2,14 +2,21 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ==================
 Computer Science Graduate student at the University of Southern California (USC)
 ==================
-I am a Computer Science Graduate student at the University of Southern California (USC) graduating in December 2024. Previously, I worked as a Data Engineer at GE for 3 years, and am skilled in Python Programming, Data Analytics, Tableau, and Amazon Web Services (AWS).
+I am a skilled Data Engineer passionate about leveraging cutting-edge technologies to drive innovation and optimize cloud solutions. Currently pursuing a Master of Science in Computer Science from The University of Southern California (USC), Graduating in December 2024, and looking for Internships for Summer 2024. I bring a solid academic foundation combined with practical industry experience.
 
-I graduated with a Bachelor of Technology degree majoring in Computer Science and Engineering from Kakatiya Institute of Technology & Science (KITS), Warangal, India, and am always curious to learn new tools & technologies and take up new challenges.
-* 🌍  I'm based in United States 
+In my previous role at General Electric, I spearheaded the development of scalable cloud-native products, resulting in a 90% increase in cloud admin teams' productivity. I architected and implemented a real-time monitoring framework, reducing person hours by 80%. Additionally, I played a pivotal role in automating cloud infrastructure provisioning and access control pipelines, significantly reducing project creation and deployment time.
+
+I possess a solid technical skill set, including Python, R, Java, Tableau, and Amazon Web Services (AWS). With proficiency in data management, REST API development, and web technologies, I bring a holistic approach to my work.
+
+Furthermore, my research experience in predicting malicious activity in Android using Machine Learning and NLP-driven political analysis of subreddits demonstrates my ability to apply advanced techniques in solving real-world challenges.
+
+I am eager to contribute my skills and expertise to a dynamic organization that values innovation and growth. Let's connect on LinkedIn to discuss potential opportunities or collaborations.
+
+* 🌍  I'm based in the United States 
 * 🖥️  See my portfolio at [LinkedIn](https://www.linkedin.com/in/sakethanne) 
 * 🖥️  See my Tableau Public portfolio at [Tableau Public](https://public.tableau.com/app/profile/saketh.anne/viz/VisualResume_16852692875970/VisualResume?publish=yes)
 * ✉️  You can contact me at [asvn.saketh@gmail.com](mailto:asvn.saketh@gmail.com) 
-* 🧠  I'm learning React JS 
+* 🧠  I'm learning React JS and Angular JS
 * 🤝  I'm open to collaborating on Automating the boring and tedious tasks
 
 <a href="https://www.twitter.com/saketh_anne" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/saketh_anne?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
