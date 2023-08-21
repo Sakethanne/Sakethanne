@@ -2,15 +2,17 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ==================
 Computer Science Graduate student at the University of Southern California (USC)
 ==================
-I am a skilled Data Engineer passionate about leveraging cutting-edge technologies to drive innovation and optimize cloud solutions. Currently pursuing a Master of Science in Computer Science from The University of Southern California (USC), Graduating in December 2024, and looking for Internships for Summer 2024. I bring a solid academic foundation combined with practical industry experience.
+I am a skilled Data Engineer passionate about leveraging cutting-edge technologies to drive innovation and optimize products and solutions; looking for Software Engineer/Software Developer Internship in the Summer of 2024 and a Co-Op in the Fall of 2024. 
 
-In my previous role at General Electric, I spearheaded the development of scalable cloud-native products, resulting in a 90% increase in cloud admin teams' productivity. I architected and implemented a real-time monitoring framework, reducing person hours by 80%. Additionally, I played a pivotal role in automating cloud infrastructure provisioning and access control pipelines, significantly reducing project creation and deployment time.
+Currently pursuing a Master of Science in Computer Science from the University of Southern California (USC), Expected to graduate in December 2024. I bring to the table a solid academic foundation and three years of practical industry experience.
 
-I possess a solid technical skill set, including Python, R, Java, Tableau, and Amazon Web Services (AWS). With proficiency in data management, REST API development, and web technologies, I bring a holistic approach to my work.
+In my previous role at General Electric (GE), I spearheaded the development of scalable cloud-native products, resulting in a 90% increase in cloud admin teams' productivity. I architected and implemented a real-time monitoring framework, reducing person-hours by 80%. Additionally, I played a pivotal role in automating cloud infrastructure provisioning and access control pipelines, significantly reducing project creation and deployment time.
 
-Furthermore, my research experience in predicting malicious activity in Android using Machine Learning and NLP-driven political analysis of subreddits demonstrates my ability to apply advanced techniques in solving real-world challenges.
+I possess a solid technical skill set, including Python, R, Java, Tableau, Data Structures and Algorithms, Object Oriented Programming, and Amazon Web Services (AWS). With proficiency in Data management, REST API development, Agile methodologies, Software development lifecycles, and Web technologies.
 
-I am eager to contribute my skills and expertise to a dynamic organization that values innovation and growth. Let's connect on LinkedIn to discuss potential opportunities or collaborations.
+Furthermore, my research experience in Predicting Malicious Activity in Android using Machine Learning and NLP-driven Political Analysis of Subreddits demonstrates my ability to apply advanced techniques to solve real-world challenges and make an impact.
+
+I am eager to contribute my skills and expertise to a dynamic organization that values innovation and growth. Please feel free to reach out to me on LinkedIn to talk about opportunities or project collaborations.
 
 * 🌍  I'm based in the United States 
 * 🖥️  See my portfolio at [LinkedIn](https://www.linkedin.com/in/sakethanne) 
