@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ==================
 Computer Science Graduate student at the University of Southern California (USC)
 ==================
-I am a skilled Data Engineer passionate about leveraging cutting-edge technologies to drive innovation and optimize products and solutions; looking for Software Engineer/Software Developer Internship in the Summer of 2024 and a Co-Op in the Fall of 2024. 
+I am a skilled Computer Science Professional passionate about leveraging cutting-edge technologies to drive innovation and optimize products and solutions; looking for Software Engineer/Software Developer/Data Engineer Full-time roles starting January 2025.
 
 Currently pursuing a Master of Science in Computer Science from the University of Southern California (USC), Expected to graduate in December 2024. I bring to the table a solid academic foundation and three years of practical industry experience.
 
@@ -15,10 +15,11 @@ Furthermore, my research experience in Predicting Malicious Activity in Android 
 I am eager to contribute my skills and expertise to a dynamic organization that values innovation and growth. Please feel free to reach out to me on LinkedIn to talk about opportunities or project collaborations.
 
 * 🌍  I'm based in the United States 
-* 🖥️  See my portfolio at [LinkedIn](https://www.linkedin.com/in/sakethanne) 
+* 🖥️  See my portfolio at [LinkedIn](https://www.linkedin.com/in/sakethanne)
+* 🖥️  See my Website at [Saketh Anne](https://sakethanne.github.io)
 * 🖥️  See my Tableau Public portfolio at [Tableau Public](https://public.tableau.com/app/profile/saketh.anne/viz/VisualResume_16852692875970/VisualResume?publish=yes)
 * ✉️  You can contact me at [asvn.saketh@gmail.com](mailto:asvn.saketh@gmail.com) 
-* 🧠  I'm learning React JS and Angular JS
+* 🧠  I'm learning Ansible and Kubernetes
 * 🤝  I'm open to collaborating on Automating the boring and tedious tasks
 
 <a href="https://www.twitter.com/saketh_anne" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/saketh_anne?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
