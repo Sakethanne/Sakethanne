@@ -1,20 +1,20 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Saketh Anne 
 ==================
-Computer Science Graduate from the University of Southern California (USC)
+Computer Science Graduate from the University of Southern California (USC). Looking for SDE/SWE Opportunities.
 ==================
-I am a skilled Computer Science Professional passionate about leveraging cutting-edge technologies to drive innovation and optimize products and solutions; I am looking for a Software Engineer/Software Developer/Data Engineer Full-time role starting January 2025.
+As a highly skilled Computer Science Professional, I am eager to leverage cutting-edge technologies to drive innovation and optimize products and solutions. I am seeking a Full-time Software Engineer/Software Developer/Data Engineer position to commence in January 2025.
 
-A Computer Scinece graduaate from the University of Southern California (USC), graduated with a GPA of 3.9/4. I bring to the table a solid academic foundation and three years of practical industry experience.
+A Computer Science graduate from the University of Southern California (USC), I earned a GPA of 3.9/4. My academic background is complemented by three years of practical industry experience.
 
-While working at Open Progammable Infrastructure (OPI) under The Linux Foundation, I have contributed to the ansible scripts to deploy OS on bare metal, install software on multiple instances, update the BIOS paprameters, monitor the infrastructure and control accordingly.
+During my tenure at Open Progammable Infrastructure (OPI) under The Linux Foundation, I contributed to Ansible scripts for deploying operating systems on bare metal, installing software on multiple instances, updating BIOS parameters, monitoring infrastructure, and implementing control mechanisms.
 
-In my previous role at General Electric (GE), I spearheaded the development of scalable cloud-native products, resulting in a 90% increase in cloud admin teams' productivity. I architected and implemented a real-time monitoring framework, reducing person hours by 80%. Additionally, I played a pivotal role in automating cloud infrastructure provisioning and access control pipelines, significantly reducing project creation and deployment time.
+In my previous role at General Electric (GE), I spearheaded the development of scalable cloud-native products, resulting in a 90% increase in the productivity of cloud administration teams. I designed and implemented a real-time monitoring framework, reducing personnel hours by 80%. Additionally, I played a key role in automating cloud infrastructure provisioning and access control pipelines, significantly reducing project creation and deployment time.
 
-I possess a solid technical skill set, including Python, R, Java, Tableau, Data Structures and Algorithms, Object Oriented Programming, and Amazon Web Services (AWS). With proficiency in Data management, REST API development, Agile methodologies, Software development lifecycles, and Web technologies.
+My technical expertise encompasses Python, R, Java, Tableau, Data Structures and Algorithms, Object Oriented Programming, and Amazon Web Services (AWS). I am also proficient in data management, REST API development, Agile methodologies, Software Development Lifecycles, and Web technologies.
 
-Furthermore, my research experience in Predicting Malicious Activity in Android using Machine Learning and NLP-driven Political Analysis of Subreddits demonstrates my ability to apply advanced techniques to solve real-world challenges and make an impact.
+Furthermore, my research experience in Predicting Malicious Activity in Android using Machine Learning and NLP-driven Political Analysis of Subreddits showcases my proficiency in employing advanced techniques to address practical challenges and contribute to meaningful outcomes.
 
-I am eager to contribute my skills and expertise to a dynamic organization that values innovation and growth. Please feel free to reach out to me on LinkedIn to talk about opportunities or project collaborations.
+I am enthusiastic about contributing my expertise and skills to an organization that fosters innovation and growth. Please do not hesitate to contact me on LinkedIn to discuss potential opportunities or collaborative projects.
 
 * 🌍  I'm based in the United States 
 * 🖥️  See my portfolio at [LinkedIn](https://www.linkedin.com/in/sakethanne)
