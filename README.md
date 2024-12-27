@@ -1,10 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Saketh Anne 
 ==================
-Computer Science Graduate student at the University of Southern California (USC)
+Computer Science Graduate from the University of Southern California (USC)
 ==================
 I am a skilled Computer Science Professional passionate about leveraging cutting-edge technologies to drive innovation and optimize products and solutions; I am looking for a Software Engineer/Software Developer/Data Engineer Full-time role starting January 2025.
 
-Currently pursuing a Master of Science in Computer Science from the University of Southern California (USC), Expected to graduate in December 2024. I bring to the table a solid academic foundation and three years of practical industry experience.
+A Computer Scinece graduaate from the University of Southern California (USC), graduated with a GPA of 3.9/4. I bring to the table a solid academic foundation and three years of practical industry experience.
+
+While working at Open Progammable Infrastructure (OPI) under The Linux Foundation, I have contributed to the ansible scripts to deploy OS on bare metal, install software on multiple instances, update the BIOS paprameters, monitor the infrastructure and control accordingly.
 
 In my previous role at General Electric (GE), I spearheaded the development of scalable cloud-native products, resulting in a 90% increase in cloud admin teams' productivity. I architected and implemented a real-time monitoring framework, reducing person hours by 80%. Additionally, I played a pivotal role in automating cloud infrastructure provisioning and access control pipelines, significantly reducing project creation and deployment time.
 
@@ -19,7 +21,7 @@ I am eager to contribute my skills and expertise to a dynamic organization that 
 * 🖥️  See my Website at [Saketh Anne](https://sakethanne.github.io)
 * 🖥️  See my Tableau Public portfolio at [Tableau Public](https://public.tableau.com/app/profile/saketh.anne/viz/VisualResume_16852692875970/VisualResume?publish=yes)
 * ✉️  You can contact me at [asvn.saketh@gmail.com](mailto:asvn.saketh@gmail.com) 
-* 🧠  I'm learning Ansible and Kubernetes
+* 🧠  I'm learning Kubernetes and GoLang
 * 🤝  I'm open to collaborating on Automating the boring and tedious tasks
 
 <a href="https://www.twitter.com/saketh_anne" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/saketh_anne?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
