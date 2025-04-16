@@ -1,16 +1,14 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Saketh Anne 
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)This is Saketh Anne!
 ==================
-Computer Science Graduate from the University of Southern California (USC). Looking for SDE/SWE Opportunities.
+Software Engineer | Computer Science Graduate from the University of Southern California (USC) | Ex - Linux Foundation, GE
 ==================
-As a highly skilled Computer Science Professional, I am eager to leverage cutting-edge technologies to drive innovation and optimize products and solutions. I am seeking a Full-time Software Engineer/Software Developer/Data Engineer position to commence in January 2025.
-
-A Computer Science graduate from the University of Southern California (USC), I earned a GPA of 3.9/4. My academic background is complemented by three years of practical industry experience.
+As a Computer Science graduate from the University of Southern California (USC), I earned a GPA of 3.9/4. My academic background is complemented by three years of practical full-time industry experience.
 
 During my tenure at Open Progammable Infrastructure (OPI) under The Linux Foundation, I contributed to Ansible scripts for deploying operating systems on bare metal, installing software on multiple instances, updating BIOS parameters, monitoring infrastructure, and implementing control mechanisms.
 
 In my previous role at General Electric (GE), I spearheaded the development of scalable cloud-native products, resulting in a 90% increase in the productivity of cloud administration teams. I designed and implemented a real-time monitoring framework, reducing personnel hours by 80%. Additionally, I played a key role in automating cloud infrastructure provisioning and access control pipelines, significantly reducing project creation and deployment time.
 
-My technical expertise encompasses Python, R, Java, Tableau, Data Structures and Algorithms, Object Oriented Programming, and Amazon Web Services (AWS). I am also proficient in data management, REST API development, Agile methodologies, Software Development Lifecycles, and Web technologies.
+My technical expertise encompasses Python, R, Java, Tableau, Data Structures and Algorithms, Object Oriented Programming, and Amazon Web Services (AWS). I am also proficient in Data Management, REST API Development, Agile Methodologies, Software Development Lifecycles, and Web Technologies.
 
 Furthermore, my research experience in Predicting Malicious Activity in Android using Machine Learning and NLP-driven Political Analysis of Subreddits showcases my proficiency in employing advanced techniques to address practical challenges and contribute to meaningful outcomes.
 
@@ -22,7 +20,6 @@ I am enthusiastic about contributing my expertise and skills to an organization 
 * 🖥️  See my Tableau Public portfolio at [Tableau Public](https://public.tableau.com/app/profile/saketh.anne/viz/VisualResume_16852692875970/VisualResume?publish=yes)
 * ✉️  You can contact me at [asvn.saketh@gmail.com](mailto:asvn.saketh@gmail.com) 
 * 🧠  I'm learning Kubernetes and GoLang
-* 🤝  I'm open to collaborating on Automating the boring and tedious tasks
 
 <a href="https://www.twitter.com/saketh_anne" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/saketh_anne?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Skills  
