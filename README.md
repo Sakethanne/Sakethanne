@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)This is Saketh Anne!
 ==================
-Software Engineer | Computer Science Graduate from the University of Southern California (USC) | Ex - Linux Foundation, GE
+Software Engineer @ T-Mobile | Computer Science Graduate from the University of Southern California (USC) | Ex - Linux Foundation, GE
 ==================
 As a Computer Science graduate from the University of Southern California (USC), I earned a GPA of 3.9/4. My academic background is complemented by three years of practical full-time industry experience.
 
